@@ -1,12 +1,13 @@
 ![Profile Oscar Silva](https://github.com/SilvaOz/SilvaOz/blob/master/image/My%20name%20is%20Oscar%20silva.gif)
 
-## Hey there,  I am Oscar 👋️ 
 
->*always looking for new challenges*
+<center> <p>always looking for new challenges</p> </center>
+
+## Hey there,  I'm Oscar 👋️ 
 
 ### Now
 - Beginner 🚀️
-- Student web developer at [DCI Digital Career Institute](https://digitalcareerinstitute.org/) 
+- I am currently studying web development at the [Digital Career Institute](https://digitalcareerinstitute.org/) DCI. 💻️
 
 ---
 
