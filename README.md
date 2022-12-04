@@ -1,4 +1,4 @@
-![](https://github.com/SilvaOz/SilvaOz/blob/master/image/Oscar%20Silva%20(1).gif)
+![](https://github.com/SilvaOz/SilvaOz/blob/master/image/Oscar%20Silva%20(2).gif)
 
 [![GitHub Oscar](https://img.shields.io/github/followers/thaiane?label=follow&style=social)]([https://github.com/Thaiane](https://github.com/SilvaOz))
 
