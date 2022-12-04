@@ -1,7 +1,7 @@
 ![Profile Oscar Silva](https://github.com/SilvaOz/SilvaOz/blob/master/image/My%20name%20is%20Oscar%20silva.gif)
 ### Now
 - Beginner 🚀️
-- I am currently studying web development at the [Digital Career Institute](https://digitalcareerinstitute.org/) DCI.<img src="https://media.giphy.com/media/l0MYInVlNJkrygcNO/giphy.gif" width="70">
+- I am currently studying web development at the [Digital Career Institute](https://digitalcareerinstitute.org/) DCI.     
 
 ---
 
