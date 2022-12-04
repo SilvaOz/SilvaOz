@@ -1,4 +1,4 @@
-![](https://github.com/SilvaOz/SilvaOz/blob/master/image/Oscar%20Silva%20(3).gif)
+![](https://www.canva.com/design/DAFTzK0bOFo/spPjkO9kO21ZPhdlsRJ-Wg/watch?utm_content=DAFTzK0bOFo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 [![GitHub Oscar](https://img.shields.io/github/followers/thaiane?label=follow&style=social)]([https://github.com/Thaiane](https://github.com/SilvaOz))
 
