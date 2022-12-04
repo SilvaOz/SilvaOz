@@ -1,10 +1,10 @@
 ![Profile Oscar Silva](https://github.com/SilvaOz/SilvaOz/blob/master/image/Oscar%20Silva%20(3).gif)
 
-##Hey there,  I am Oscar 👋️ 
+## Hey there,  I am Oscar 👋️ 
 
 >*always looking for new challenges*
 
-###Now
+### Now
 - Beginner 🚀️
 - Student web developer at [DCI Digital Career Institute](https://digitalcareerinstitute.org/) 
 
