@@ -1,4 +1,4 @@
-![Profile Oscar Silva](https://github.com/SilvaOz/SilvaOz/blob/master/image/O.mp4)
+![Profile Oscar Silva](https://github.com/SilvaOz/SilvaOz/blob/master/O.gif)
 
 ## Hi there, i'm Oscar 👋️
 
