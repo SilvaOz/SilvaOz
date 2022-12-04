@@ -1,5 +1,7 @@
 ![Profile Oscar Silva](https://github.com/SilvaOz/SilvaOz/blob/master/image/My%20name%20is%20Oscar%20silva.gif)
-## HI THERE; IM OSCAR 👋️
+
+## Hi there, Im Oscar 👋️
+
 - 🌱  I am currently studying web development at the [DCI.](https://digitalcareerinstitute.org/)
 - ⚡  Fun fact: I love to draw
 
