@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=cyber+city&size=24&pause=1000&color=1BE9BA&width=435&height=100&lines=Hi%2C+my+name+is+Oscar+;I'm+a+beginner+web+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://github.com/SilvaOz?font=cyber+city&size=24&pause=1000&color=1BE9BA&width=435&height=100&lines=Hi%2C+my+name+is+Oscar+;I'm+a+beginner+web+developer)](https://git.io/typing-svg)
 
 About me :
 
@@ -27,7 +27,6 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 <br>
 <br>
 <br>
-
 ### :hammer_and_wrench: Languages and Tools :
 <div id="languages" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" width="80" height="80"/>&nbsp;&nbsp;
