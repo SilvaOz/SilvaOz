@@ -5,6 +5,20 @@ About me :
 
 - 🌱  I am currently studying web development at the [DCI.](https://digitalcareerinstitute.org/)
 - ⚡  Fun fact: I love to draw
+- - 🌱  I am currently studying web development at the [DCI.](https://digitalcareerinstitute.org/)
+- ⚡  Fun fact: I love to draw
+- 🌱  I am currently studying web development at the [DCI.](https://digitalcareerinstitute.org/)
+- ⚡  Fun fact: I love to draw
+- 🌱  I am currently studying web development at the [DCI.](https://digitalcareerinstitute.org/)
+- ⚡  Fun fact: I love to draw
+- 🌱  I am currently studying web development at the [DCI.](https://digitalcareerinstitute.org/)
+- ⚡  Fun fact: I love to draw
+- 🌱  I am currently studying web development at the [DCI.](https://digitalcareerinstitute.org/)
+- ⚡  Fun fact: I love to draw
+- 🌱  I am currently studying web development at the [DCI.](https://digitalcareerinstitute.org/)
+- ⚡  Fun fact: I love to draw
+- 🌱  I am currently studying web development at the [DCI.](https://digitalcareerinstitute.org/)
+- ⚡  Fun fact: I love to draw
 
 
 <img width=380 align="right" alt="Github"
