@@ -56,9 +56,9 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
             </p><hr>
  <p><img align="left"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=silvaoz&show_icons=true&locale=en&layout=compact"
-            width="47%" height="47%" alt="silvaoz" />
-    </p><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=silvaoz&show_icons=true&locale=en"
-            width="47%" height="47%" alt="silvaoz" />
-    </p><p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silvaoz&" width="100%"
-            height="100%" alt="silvaoz" /> </p>
+            width="47%" height="47%" alt="silvaoz" /></p>
+            <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=silvaoz&show_icons=true&locale=en"
+            width="47%" height="47%" alt="silvaoz" /></p><p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silvaoz&" width="100%"
+            height="100%" alt="silvaoz" /> </p><hr>
+    
 
