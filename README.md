@@ -9,7 +9,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 
 - 🌱 I am currently studying **Web development at the DCI.**
 
-- 📫 How to reach me **Oscarsilva03@gmail.com**
+- 📫 How to reach me **oscarsilva03@yahoo.com**
 
 - ⚡ Fun fact **I love to draw**
 <br>
