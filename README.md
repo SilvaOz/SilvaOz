@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silvaoz&label=Profile%20views&color=0e75b6&style=flat" alt="silvaoz" /> </p>
 
 
-### About me:
+### 🧑‍💻  About me:
 
 - 🌱 I am currently studying **Web development at the DCI.**
 
@@ -15,7 +15,7 @@
 <img width=350 align="right" alt="Github"
 src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Developer.gif" 
 /> 
-<h3 align="left"> :hammer_and_wrench: Languages and Tools:</h3>
+### :hammer_and_wrench: Languages and Tools:</h3>
 <p align="left">
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
@@ -52,8 +52,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
     </p>
 <p><img align="center"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=silvaoz&show_icons=true&locale=en&layout=compact"
-            width="100%" height="100%" alt="silvaoz" />
-    </p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silvaoz&show_icons=true&locale=en"
+            width="100%" height="100%" alt="silvaoz" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silvaoz&show_icons=true&locale=en"
             width="100%" height="100%" alt="silvaoz" />
     </p><p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silvaoz&" width="100%"
             height="100%" alt="silvaoz" /> </p>
