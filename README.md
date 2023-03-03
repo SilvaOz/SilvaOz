@@ -5,7 +5,7 @@
 
 <div style="display:flex; align-items:center;">
   <img src="https://i.gifer.com/bJk.gif" alt="Texto alternativo de la imagen" width="200" height="200">
-  <p>Currently, I'm studying at DCI to hone my skills in this field. I love creativity and thinking outside the box, which drives me to always seek innovative solutions to the problems I face in my work as a programmer.
+  <p align="left">>Currently, I'm studying at DCI to hone my skills in this field. I love creativity and thinking outside the box, which drives me to always seek innovative solutions to the problems I face in my work as a programmer.
 ver since I discovered my love for technology, I've been exploring and experimenting with different programming languages, frameworks, and tools for web development. I like to stay up-to-date with the latest trends and emerging technologies, which enables me to create applications and websites that are both functional and attractive to users.
 In my free time, I enjoy photography and music, which allows me to continue exploring my creativity and apply it to my work as a web developer. I'm always eager to learn something new and take on new challenges, and I believe that's what makes me an ideal candidate for any web development project.
 
