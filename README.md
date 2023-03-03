@@ -42,10 +42,11 @@
                         src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender"
                         width="40" height="40" /> </a>
             </p>
- <p><img align="left"
+ <p><img align="center"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=silvaoz&show_icons=true&locale=en&layout=compact"
-            width="47%" height="47%" alt="silvaoz" /></p>
-            <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=silvaoz&show_icons=true&locale=en"
-            width="47%" height="47%" alt="silvaoz" /></p><p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silvaoz&" width="100%"
+            width="50%" height="50%" alt="silvaoz" /></p><p>
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=silvaoz&show_icons=true&locale=en"
+            width="50%" height="50%" alt="silvaoz" /></p><p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silvaoz&" width="100%"
             height="100%" alt="silvaoz" /> </p>
+
             Thank you for visiting my profile and I look forward to potentially collaborating with you on an exciting web development project!
