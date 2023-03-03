@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&weight=500&duration=4000&pause=1000&color=000000&background=00F791A4&center=true&vCenter=true&multiline=true&width=780&height=100&lines=Hi+there!+My+name+is+Oscar+Silva%2C+;I'm+passionate+about+the+world+of+technology+and+web+development.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=18F7B5&center=true&vCenter=true&width=780&height=100&lines=Hi+there!+My+name+is+Oscar+Silva%2C;I'm+passionate+about+the+world+of+technology+and+web+development.)](https://git.io/typing-svg)
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=silvaoz&label=Profile%20views&color=0e75b6&style=flat" alt="silvaoz" /> </p>
 
