@@ -1,19 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=18F7B5&center=true&vCenter=true&width=780&height=100&lines=Hi+there!+My+name+is+Oscar+Silva%2C;I'm+passionate+about+the+world+of+technology+and+web+development.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=18F7B5&center=true&vCenter=true&multiline=true&width=780&height=100&lines=Hi+there!+My+name+is+Oscar+Silva.;I'm+passionate+about+the+world+of+technology+and+web+development.)](https://git.io/typing-svg)
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=silvaoz&label=Profile%20views&color=0e75b6&style=flat" alt="silvaoz" /> </p>
 
 
 |               About me              |         
 |:---------------------------------:|
-| I am an enthusiastic web development student in search of opportunities to showcase my skills and creativity in the field. I love working with technologies like HTML, CSS, and JavaScript, and am always eager to learn new languages and tools.        
-|Though I do not yet have professional experience with companies, I have been working on personal projects to improve my skills and knowledge in web development. I focus on finding innovative and exciting solutions to any challenge that comes my way.|
+| I am an enthusiastic web development student in search of opportunities to showcase my skills and creativity in the field. I love working with technologies like HTML, CSS, and JavaScript, and am always eager to learn new languages and tools.     Though I do not yet have professional experience with companies, I have been working on personal projects to improve my skills and knowledge in web development. I focus on finding innovative and exciting solutions to any challenge that comes my way.
 |               Contact me              | 
 |If you are looking for a quality-driven, enthusiastic, and creative web developer, do not hesitate to contact me via email at oscarsilva03@yahoo.com.
 |![](https://media.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif) |
-Thank you for visiting my profile and I look forward to potentially collaborating with you on an exciting web development project! ![]
-<img width=400 align="right" alt="Github"
-src="https://media.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif" 
-/> 
+Thank you for visiting my profile and I look forward to potentially collaborating with you on an exciting web development project!
+
 
 
 <br>
