@@ -1,18 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&weight=500&duration=4000&pause=1000&color=000000&background=00F791A4&center=true&vCenter=true&multiline=true&width=780&height=100&lines=Hi+there!+My+name+is+Oscar+Silva%2C+;I'm+passionate+about+the+world+of+technology+and+web+development.)](https://git.io/typing-svg)
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=silvaoz&label=Profile%20views&color=0e75b6&style=flat" alt="silvaoz" /> </p>
-<h3 align="left">🧑‍💻  About me:</h3>
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=silvaoz&label=Profile%20views&color=0e75b6&style=flat" alt="silvaoz" /> </p>
+<h3 align="left">  About me:</h3>
 
 <div style="display:flex; align-items:center;">
-  <img src="" alt="Texto alternativo de la imagen" width="200" height="200">
+  <img src="https://i.gifer.com/bJk.gif" alt="Texto alternativo de la imagen" width="200" height="200">
   <p>Currently, I'm studying at DCI to hone my skills in this field. I love creativity and thinking outside the box, which drives me to always seek innovative solutions to the problems I face in my work as a programmer.
 ver since I discovered my love for technology, I've been exploring and experimenting with different programming languages, frameworks, and tools for web development. I like to stay up-to-date with the latest trends and emerging technologies, which enables me to create applications and websites that are both functional and attractive to users.
 In my free time, I enjoy photography and music, which allows me to continue exploring my creativity and apply it to my work as a web developer. I'm always eager to learn something new and take on new challenges, and I believe that's what makes me an ideal candidate for any web development project.
 
 If you're interested in collaborating with me, feel free to reach out to me at oscarsilva03@yahoo.com. I'm excited for the new opportunities that lie ahead in this exciting and constantly-evolving field!
+
 </p>
 </div>
-
 
 <br>
 <br>
@@ -62,5 +62,3 @@ If you're interested in collaborating with me, feel free to reach out to me at o
             <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=silvaoz&show_icons=true&locale=en"
             width="47%" height="47%" alt="silvaoz" /></p><p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silvaoz&" width="100%"
             height="100%" alt="silvaoz" /> </p><hr>
-    
-
