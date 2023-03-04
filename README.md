@@ -5,7 +5,7 @@
 
 |               <h3>About me </h3>             |         
 |:---------------------------------:|
-|<h3> I am an enthusiastic web development student in search of opportunities to showcase my skills and creativity in the field. I love working with technologies like HTML, CSS, and JavaScript, and am always eager to learn new languages and tools.     Though I do not yet have professional experience with companies, I have been working on personal projects to improve my skills and knowledge in web development. I focus on finding innovative and exciting solutions to any challenge that comes my way</h3>|
+|<h3> I am an enthusiastic web development student in search of opportunities to showcase my skills and creativity in the field. I love working with technologies like HTML, CSS, and JavaScript, and am always eager to learn new languages and tools.     Though I do not yet have professional experience with companies, I have been working on personal projects to improve my skills and knowledge in web development. I focus on finding innovative and exciting solutions to any challenge that comes my way.</h3>|
 If you are looking for a quality-driven, enthusiastic, and creative web developer, do not hesitate to contact me via email at oscarsilva03@yahoo.com.
 |![](https://media.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif) |
 <p align="center">
@@ -48,5 +48,5 @@ If you are looking for a quality-driven, enthusiastic, and creative web develope
             width="50%" height="50%" alt="silvaoz" /></p> -->
             <p>
             <img align="center" src="https://github-readme-stats.vercel.app/api?username=silvaoz&show_icons=true&locale=en"
-            width="50%" height="50%" alt="silvaoz" /></p><p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silvaoz&" width="50%"
-            height="50%" alt="silvaoz" /> </p>
+            width="100%" height="100%" alt="silvaoz" /></p><p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silvaoz&" width="100%"
+            height="100%" alt="silvaoz" /> </p>
