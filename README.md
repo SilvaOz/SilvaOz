@@ -3,9 +3,9 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=silvaoz&label=Profile%20views&color=0e75b6&style=flat" alt="silvaoz" /> </p>
 
 
-|               <h4>About me </h4>             |         
+|               <h2>About me </h2>             |         
 |:---------------------------------:|
-|<h5> I am an enthusiastic web development student in search of opportunities to showcase my skills and creativity in the field. I love working with technologies like HTML, CSS, and JavaScript, and am always eager to learn new languages and tools.     Though I do not yet have professional experience with companies, I have been working on personal projects to improve my skills and knowledge in web development. I focus on finding innovative and exciting solutions to any challenge that comes my way.</h5>
+|<h3> I am an enthusiastic web development student in search of opportunities to showcase my skills and creativity in the field. I love working with technologies like HTML, CSS, and JavaScript, and am always eager to learn new languages and tools.     Though I do not yet have professional experience with companies, I have been working on personal projects to improve my skills and knowledge in web development. I focus on finding innovative and exciting solutions to any challenge that comes my way.</h3>
 |<h5>If you are looking for a quality-driven, enthusiastic, and creative web developer, do not hesitate to contact me via email at oscarsilva03@yahoo.com.</h5>
 |![](https://media.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif)</h5> |
 <p align="center">
