@@ -46,7 +46,7 @@ If you are looking for a quality-driven, enthusiastic, and creative web develope
             <!-- <p><img align="center"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=silvaoz&show_icons=true&locale=en&layout=compact"
             width="50%" height="50%" alt="silvaoz" /></p> -->
-            <p>
+            <!-- <p>
             <img align="center" src="https://github-readme-stats.vercel.app/api?username=silvaoz&show_icons=true&locale=en"
             width="100%" height="100%" alt="silvaoz" /></p><p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silvaoz&" width="100%"
-            height="100%" alt="silvaoz" /> </p>
+            height="100%" alt="silvaoz" /> </p> -->
