@@ -42,7 +42,7 @@ If you are looking for a quality-driven, enthusiastic, and creative web develope
                         src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender"
                         width="40" height="40" /> </a>
             </p>
-            _Thank you for visiting my profile and I look forward to potentially collaborating with you on an exciting web development project!_
+            * Thank you for visiting my profile and I look forward to potentially collaborating with you on an exciting web development project! *
             <!-- <p><img align="center"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=silvaoz&show_icons=true&locale=en&layout=compact"
             width="50%" height="50%" alt="silvaoz" /></p> -->
