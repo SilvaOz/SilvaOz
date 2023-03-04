@@ -7,7 +7,7 @@
 |:---------------------------------:|
 |<h4> I am an enthusiastic web development student in search of opportunities to showcase my skills and creativity in the field. I love working with technologies like HTML, CSS, and JavaScript, and am always eager to learn new languages and tools.     Though I do not yet have professional experience with companies, I have been working on personal projects to improve my skills and knowledge in web development. I focus on finding innovative and exciting solutions to any challenge that comes my way.</h4>|
 If you are looking for a quality-driven, enthusiastic, and creative web developer, do not hesitate to contact me via email at oscarsilva03@yahoo.com.
-|![](https://media.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif) |
+|![](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) |
 <p align="center">
                 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
