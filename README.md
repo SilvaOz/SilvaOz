@@ -42,11 +42,11 @@ If you are looking for a quality-driven, enthusiastic, and creative web develope
                         src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender"
                         width="40" height="40" /> </a>
             </p>
- <p><img align="center"
+            _Thank you for visiting my profile and I look forward to potentially collaborating with you on an exciting web development project!_
+            <!-- <p><img align="center"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=silvaoz&show_icons=true&locale=en&layout=compact"
-            width="50%" height="50%" alt="silvaoz" /></p><p>
+            width="50%" height="50%" alt="silvaoz" /></p> -->
+            <p>
             <img align="center" src="https://github-readme-stats.vercel.app/api?username=silvaoz&show_icons=true&locale=en"
             width="50%" height="50%" alt="silvaoz" /></p><p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silvaoz&" width="50%"
             height="50%" alt="silvaoz" /> </p>
-
-            Thank you for visiting my profile and I look forward to potentially collaborating with you on an exciting web development project!
