@@ -1,11 +1,11 @@
-<!-- Typing SVG Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=18F7B5&size=30&center=true&vCenter=true&width=720&height=80&lines=Hi+there!+My+name+is+Oscar+Silva.;I'm+passionate+about+web+development+and+technology.">
-</p>
-
 <!-- Profile Views Counter -->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=silvaoz&label=Profile%20views&color=0e75b6&style=flat" alt="silvaoz" />
+</p>
+
+<!-- Typing SVG Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=18F7B5&size=30&center=true&vCenter=true&width=1020&height=80&lines=Hi+there!+My+name+is+Oscar.;I'm+passionate+about+web+development+and+technology.">
 </p>
 
 <!-- About Me -->
@@ -23,7 +23,7 @@
 
 <!-- Skills -->
 <p align="center">
-  <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" alt="Computer" width="200"/>
+  <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" alt="Computer" width="300"/>
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
@@ -36,7 +36,24 @@
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Adobe Photoshop" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="Adobe Premiere" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" alt="Adobe After Effects" width="40" height="40"/>
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</p>
+
+<!-- Technologies and Statistics -->
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5%20-95%25-green" alt="HTML5 badge">
+  <img src="https://img.shields.io/badge/CSS3%20-75%25-blue" alt="CSS3 badge">
+  <img src="https://img.shields.io/badge/JavaScript%20-30%25-blue" alt="JavaScript badge">
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro%20-100%25-red" alt="Adobe Premiere Pro badge">
+  <img src="https://img.shields.io/badge/Sass%20-10%25-blue" alt="Sass badge">
+  
+  <img src="https://img.shields.io/badge/Bootstrap%20-40%25-blue" alt="Bootstrap badge">
+  <img src="https://img.shields.io/badge/Python%20-10%25-blue" alt="Python badge">
+  
+
 </p>
 
 <!-- About me -->
