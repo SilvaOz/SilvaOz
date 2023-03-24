@@ -49,7 +49,6 @@
   <img src="https://img.shields.io/badge/JavaScript%20-30%25-blue" alt="JavaScript badge">
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro%20-100%25-red" alt="Adobe Premiere Pro badge">
   <img src="https://img.shields.io/badge/Sass%20-10%25-blue" alt="Sass badge">
-  
   <img src="https://img.shields.io/badge/Bootstrap%20-40%25-blue" alt="Bootstrap badge">
   <img src="https://img.shields.io/badge/Python%20-10%25-blue" alt="Python badge">
   
