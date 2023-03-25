@@ -70,6 +70,7 @@
 <!--START_SECTION:chessStats-->
 
 <!--END_SECTION:chessStats-->
+
 <!-- Footer -->
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SilvaOz" alt="Visitors" />
