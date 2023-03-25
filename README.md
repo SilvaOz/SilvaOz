@@ -10,7 +10,7 @@
   <img src="https://github.com/SilvaOz/SilvaOz/blob/master/images/OscarNinja.gif" alt="NinjaDanz" width="400"/>
 </p>
 <!-- About Me -->
-<h3 align="center"><font color="red">About Me</font></h3>
+<h3 align="center">About Me</h3>
 <p align="center">
   <em>I am a web development student who is passionate about creating high-quality websites with a focus on user experience. I am constantly seeking new challenges and opportunities to expand my skill set and take on exciting projects.</em>
 </p>
@@ -46,10 +46,10 @@
   <img src="https://img.shields.io/badge/Sass%20-10%25-blue" alt="Sass badge">
   <img src="https://img.shields.io/badge/Bootstrap%20-40%25-blue" alt="Bootstrap badge">
   <img src="https://img.shields.io/badge/Python%20-10%25-blue" alt="Python badge">
-
 </p>
+
 <p align="center">
-As a passionate and experienced web developer, I am always eager to take on new challenges and collaborate with clients to create cutting-edge websites. If you're searching for a skilled and dedicated web developer to bring your ideas to life, I would be thrilled to work with you on your next project. Don't hesitate to contact me to discuss your vision and how we can work together to achieve your goals. Thank you for considering me, and I can't wait to hear from you soon!
+  <em>If you are looking for a skilled and dedicated web developer to bring your ideas to life, I would be thrilled to work with you on your next project. Don't hesitate to contact me to discuss your vision and how we can work together to achieve your goals. Thank you for considering me, and I look forward to hearing from you soon!</em>
 </p>
 
 <!-- Contact Info -->
@@ -59,6 +59,13 @@ As a passionate and experienced web developer, I am always eager to take on new 
   <a href="https://www.linkedin.com/in/oscar-silva-webdev/"><img src="https://img.shields.io/badge/LinkedIn-282C34?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/silva_dev"><img src="https://img.shields.io/badge/Twitter-282C34?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </p> 
+
+<!-- Projects -->
+<h3 align="center">Projects</h3>
+<p align="center">
+  <a href="https://github.com/SilvaOz/PB-Calculator"><img src="https://img.shields.io/badge/Calculator-Digital-blue" alt="Calculator" /></a>
+</p>
+
 <!-- Footer -->
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SilvaOz" alt="Visitors" />
