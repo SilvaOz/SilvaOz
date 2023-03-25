@@ -57,6 +57,8 @@
 <br>
   <br>
   <br>
+</p>
+<p align="center">
 If you are in need of a dedicated and skilled web developer, I would love to collaborate with you on your next project. Please don't hesitate to reach out to me to discuss your ideas and how we can work together to bring them to life. Thank you again for considering me and I look forward to hearing from you soon!
 </p>
 
