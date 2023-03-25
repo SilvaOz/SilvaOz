@@ -10,7 +10,7 @@
   <img src="https://github.com/SilvaOz/SilvaOz/blob/master/images/OscarNinja.gif" alt="NinjaDanz" width="400"/>
 </p>
 <!-- About Me -->
-<h3 align="center"style="color: #007bff;">About Me</h3>
+<h3 align="center"style="color: #007bff">About Me</h3>
 <p align="center">
   <em>I am a web development student who is passionate about creating high-quality websites with a focus on user experience. I am constantly seeking new challenges and opportunities to expand my skill set and take on exciting projects.</em>
 </p>
