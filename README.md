@@ -1,9 +1,9 @@
+<p align="center">
+  <img src="https://github.com/SilvaOz/SilvaOz/blob/master/images/OscarNinja.gif" alt="NinjaDanz" width="00"/>
+</p>
 <!-- Typing SVG Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=808080&size=20&center=true&vCenter=true&width=1020&height=80&lines=Hello+and+welcome+to+my+GitHub+profile!;My+name+is+Oscar+and+I'm+an+enthusiastic+web+developer.">
-</p>
-<p align="center">
-  <img src="https://github.com/SilvaOz/SilvaOz/blob/master/images/OscarNinja.gif" alt="NinjaDanz" width="1000"/>
 </p>
 <!-- Profile Views Counter -->
 <p align="right">
