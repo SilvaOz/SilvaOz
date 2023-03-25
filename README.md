@@ -44,7 +44,7 @@
 <!-- Technologies and Statistics -->
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5%20-95%25-green" alt="HTML5 badge">
-  <img src="https://img.shields.io/badge/CSS3%20-75%25-blue" alt="CSS3 badge">
+  <img src="https://img.shields.io/badge/CSS3%20-90%25-green" alt="CSS3 badge">
   <img src="https://img.shields.io/badge/JavaScript%20-30%25-blue" alt="JavaScript badge">
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro%20-100%25-red" alt="Adobe Premiere Pro badge">
   <img src="https://img.shields.io/badge/Sass%20-10%25-blue" alt="Sass badge">
