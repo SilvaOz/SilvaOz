@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=18F7B5&size=20&center=true&vCenter=true&width=1020&height=80&lines=Hello+and+welcome+to+my+GitHub+profile!;My+name+is+Oscar+and+I'm+an+enthusiastic+web+developer.">
 </p>
 <p align="center">
-  <img src="https://github.com/SilvaOz/SilvaOz/blob/master/images/OscarNinja.gif" alt="NinjaDanz" width="500"/>
+  <img src="https://github.com/SilvaOz/SilvaOz/blob/master/images/OscarNinja.gif" alt="NinjaDanz" width="400"/>
 </p>
 <!-- About Me -->
 <h3 align="center">About Me</h3>
