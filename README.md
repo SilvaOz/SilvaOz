@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SilvaOz/SilvaOz/blob/master/images/OscarNinja.gif" alt="NinjaDanz" width="800"/>
+  <img src="https://github.com/SilvaOz/SilvaOz/blob/master/images/OscarNinja.gif" alt="NinjaDanz" width="700"/>
 </p>
 <!-- Typing SVG Animation -->
 <p align="center">
