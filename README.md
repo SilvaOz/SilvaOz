@@ -63,7 +63,7 @@
 <!-- Projects -->
 <h3 align="center">Projects</h3>
 <p align="center">
-  <a href="https://github.com/SilvaOz/PB-Calculator"><img src="https://img.shields.io/badge/Calculator-Digital-red" alt="Calculator" /></a>
+  <a href="silvaoz.github.io/PB-Calculator/"><img src="https://img.shields.io/badge/Calculator-Digital-red" alt="Calculator" /></a>
 </p>
 
 <!-- Footer -->
