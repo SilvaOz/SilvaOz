@@ -5,7 +5,7 @@
 
 <!-- Typing SVG Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=18F7B5&size=30&center=true&vCenter=true&width=1020&height=80&lines=Hi+there!+My+name+is+Oscar.;I'm+passionate+about+web+development+and+technology.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=18F7B5&size=20&center=true&vCenter=true&width=1020&height=80&lines=Hi+there!+My+name+is+Oscar.;I'm+passionate+about+web+development+and+technology.">
 </p>
 
 <p align="center">
@@ -52,7 +52,12 @@
 
 <!-- About me -->
 <p align="center">
-  Thank you for visiting my profile! I am a web developer with experience in Linux, HTML5, CSS3, Sass, Bootstrap, JavaScript, Unreal Engine, Adobe XD, Adobe Illustrator, Adobe Photoshop, and Blender. I am passionate about creating responsive and user-friendly websites and I am always looking for new projects to collaborate on. Please feel free to contact me if you are interested in working together!
+  <em>Thank you for taking the time to visit my profile. As a web developer, I strive to create websites that are not only visually appealing but also intuitive and easy to use for the end-user. I am constantly seeking new challenges and opportunities to hone my skills and take on exciting projects.</em>
+<br>
+<br>
+  <br>
+  <br>
+If you are in need of a dedicated and skilled web developer, I would love to collaborate with you on your next project. Please don't hesitate to reach out to me to discuss your ideas and how we can work together to bring them to life. Thank you again for considering me and I look forward to hearing from you soon!
 </p>
 
 <!-- Contact Info -->
