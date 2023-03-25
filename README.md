@@ -1,10 +1,10 @@
 <!-- Agrega esto al principio de tu archivo README.md -->
 <style>
   body {
-    background-color: #000000;
-    color: #ffffff;
+    background-color: black;
   }
 </style>
+
 
 <p align="center">
   <img src="https://github.com/SilvaOz/SilvaOz/blob/master/images/OscarNinja.gif" alt="NinjaDanz" width="700"/>
