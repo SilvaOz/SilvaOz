@@ -6,26 +6,26 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=fff&size=20&center=true&vCenter=true&width=1020&height=80&lines=Hello+and+welcome+to+my+GitHub+profile!;My+name+is+Oscar+and+I'm+an+enthusiastic+web+developer.">
 </p>
-<p align="center" style="font-family: Consolas;">
-  Hello and welcome to my GitHub profile! My name is Oscar and I'm an enthusiastic web developer.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&color=fff&size=20&center=true&vCenter=true&width=1020&height=80&lines=Hello+and+welcome+to+my+GitHub+profile!;My+name+is+Oscar+and+I'm+an+enthusiastic+web+developer.">
 </p>
-<p align="center" style="font-family: Inconsolata;">
-  Hello and welcome to my GitHub profile! My name is Oscar and I'm an enthusiastic web developer.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&color=fff&size=20&center=true&vCenter=true&width=1020&height=80&lines=Hello+and+welcome+to+my+GitHub+profile!;My+name+is+Oscar+and+I'm+an+enthusiastic+web+developer.">
 </p>
-<p align="center" style="font-family: Source Code Pro;">
-  Hello and welcome to my GitHub profile! My name is Oscar and I'm an enthusiastic web developer.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=fff&size=20&center=true&vCenter=true&width=1020&height=80&lines=Hello+and+welcome+to+my+GitHub+profile!;My+name+is+Oscar+and+I'm+an+enthusiastic+web+developer.">
 </p>
-<p align="center" style="font-family: Monaco;">
-  Hello and welcome to my GitHub profile! My name is Oscar and I'm an enthusiastic web developer.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Monaco&color=fff&size=20&center=true&vCenter=true&width=1020&height=80&lines=Hello+and+welcome+to+my+GitHub+profile!;My+name+is+Oscar+and+I'm+an+enthusiastic+web+developer.">
 </p>
-<p align="center" style="font-family: DejaVu Sans Mono;">
-  Hello and welcome to my GitHub profile! My name is Oscar and I'm an enthusiastic web developer.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=DejaVu+Sans+Mono&color=fff&size=20&center=true&vCenter=true&width=1020&height=80&lines=Hello+and+welcome+to+my+GitHub+profile!;My+name+is+Oscar+and+I'm+an+enthusiastic+web+developer.">
 </p>
-<p align="center" style="font-family: Hack;">
-  Hello and welcome to my GitHub profile! My name is Oscar and I'm an enthusiastic web developer.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Hack&color=fff&size=20&center=true&vCenter=true&width=1020&height=80&lines=Hello+and+welcome+to+my+GitHub+profile!;My+name+is+Oscar+and+I'm+an+enthusiastic+web+developer.">
 </p>
-<p align="center" style="font-family: JetBrains Mono;">
-  Hello and welcome to my GitHub profile! My name is Oscar and I'm an enthusiastic web developer.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=fff&size=20&center=true&vCenter=true&width=1020&height=80&lines=Hello+and+welcome+to+my+GitHub+profile!;My+name+is+Oscar+and+I'm+an+enthusiastic+web+developer.">
 </p>
 
 <p align="center">
