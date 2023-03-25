@@ -37,6 +37,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
+<!-- About me -->
+<p align="justify">
+  <em>Thank you for taking the time to visit my profile. As a web developer, I strive to create websites that are not only visually appealing but also intuitive and easy to use for the end-user. I am constantly seeking new challenges and opportunities to hone my skills and take on exciting projects.</em></p>
+<br>
+<br>
+<br>
+<br>
+
 <!-- Technologies and Statistics -->
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5%20-95%25-green" alt="HTML5 badge">
@@ -46,17 +54,7 @@
   <img src="https://img.shields.io/badge/Sass%20-10%25-blue" alt="Sass badge">
   <img src="https://img.shields.io/badge/Bootstrap%20-40%25-blue" alt="Bootstrap badge">
   <img src="https://img.shields.io/badge/Python%20-10%25-blue" alt="Python badge">
-  
 
-</p>
-
-<!-- About me -->
-<p align="justify">
-  <em>Thank you for taking the time to visit my profile. As a web developer, I strive to create websites that are not only visually appealing but also intuitive and easy to use for the end-user. I am constantly seeking new challenges and opportunities to hone my skills and take on exciting projects.</em>
-<br>
-<br>
-  <br>
-  <br>
 </p>
 <p align="center">
 If you are in need of a dedicated and skilled web developer, I would love to collaborate with you on your next project. Please don't hesitate to reach out to me to discuss your ideas and how we can work together to bring them to life. Thank you again for considering me and I look forward to hearing from you soon!
@@ -67,4 +65,3 @@ If you are in need of a dedicated and skilled web developer, I would love to col
   <a href="mailto:oscarsilva03@yahoo.com">Email</a> | 
   <a href="https://www.linkedin.com/in/oscar-silva-dev/">LinkedIn</a>
 </p>
-
