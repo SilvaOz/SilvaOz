@@ -33,6 +33,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
+<!-- Contributions calender -->
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=tu-usuario-de-github&theme=dark&hide_border=true&background=000000&stroke=0000" alt="GitHub Contributions Calender" />
+  </a>
+</p>
+
 <!-- About me -->
 <p align="center">
   <em>Thank you for taking the time to visit my profile. As a web developer, I strive to create websites that are not only visually appealing but also intuitive and easy to use for the end-user. I am constantly seeking new challenges and opportunities to hone my skills and take on exciting projects.</em></p>
