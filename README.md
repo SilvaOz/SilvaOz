@@ -33,12 +33,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
-<!-- Contributions calender -->
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?Silvaoz&theme=dark&hide_border=true&background=000000&stroke=0000" alt="GitHub Contributions Calender" />
-  </a>
-</p>
+
 
 <!-- About me -->
 <p align="center">
@@ -77,3 +72,33 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SilvaOz" alt="Visitors" />
 </p>
+
+# Hola, soy Oscar! 👋🏼
+
+## Lenguajes y herramientas:
+
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/agusferre/agusferre/main/icons/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/agusferre/agusferre/main/icons/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/agusferre/agusferre/main/icons/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/agusferre/agusferre/main/icons/react.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/agusferre/agusferre/main/icons/nodejs.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/agusferre/agusferre/main/icons/python.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/agusferre/agusferre/main/icons/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/agusferre/agusferre/main/icons/github.png" />
+
+<br />
+
+## Badges:
+
+[![Website](https://img.shields.io/website?label=oscar-silva.com&style=for-the-badge&url=https%3A%2F%2Foscar-silva.com)](https://oscar-silva.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/silva_dev?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/silva_dev)
+[![GitHub followers](https://img.shields.io/github/followers/SilvaOz?color=181717&logo=github&style=for-the-badge)](https://github.com/SilvaOz)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0077B5)](https://www.linkedin.com/in/oscar-silva-webdev/)
+
+<br />
+
+## Contributions Calendar:
+
+<img src="https://grass-graph.moshimo.works/images/TU-USUARIO.png?rotate=90&effect=depths" alt="Contributions Calendar" />
+
+
