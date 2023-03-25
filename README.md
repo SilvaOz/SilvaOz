@@ -8,6 +8,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=18F7B5&size=30&center=true&vCenter=true&width=1020&height=80&lines=Hi+there!+My+name+is+Oscar.;I'm+passionate+about+web+development+and+technology.">
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" alt="Computer" width="300"/>
+</p>
+
 <!-- About Me -->
 <h3 align="center">About Me</h3>
 
@@ -15,16 +19,7 @@
   <em>I am an enthusiastic web development student in search of opportunities to showcase my skills and creativity in the field. I love working with technologies like HTML, CSS, and JavaScript, and am always eager to learn new languages and tools. Though I do not yet have professional experience with companies, I have been working on personal projects to improve my skills and knowledge in web development. I focus on finding innovative and exciting solutions to any challenge that comes my way.</em>
 </p>
 
-<!-- Contact Info -->
-<p align="center">
-  <a href="mailto:oscarsilva03@yahoo.com">Email</a> | 
-  <a href="https://www.linkedin.com/in/oscar-silva-dev/">LinkedIn</a>
-</p>
-
 <!-- Skills -->
-<p align="center">
-  <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" alt="Computer" width="300"/>
-</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
@@ -59,3 +54,10 @@
 <p align="center">
   Thank you for visiting my profile! I am a web developer with experience in Linux, HTML5, CSS3, Sass, Bootstrap, JavaScript, Unreal Engine, Adobe XD, Adobe Illustrator, Adobe Photoshop, and Blender. I am passionate about creating responsive and user-friendly websites and I am always looking for new projects to collaborate on. Please feel free to contact me if you are interested in working together!
 </p>
+
+<!-- Contact Info -->
+<p align="center">
+  <a href="mailto:oscarsilva03@yahoo.com">Email</a> | 
+  <a href="https://www.linkedin.com/in/oscar-silva-dev/">LinkedIn</a>
+</p>
+
