@@ -4,13 +4,13 @@
 </p>
 <!-- Typing SVG Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=18F7B5&size=20&center=true&vCenter=true&width=1020&height=80&lines=Hello+and+welcome+to+my+GitHub+profile!;My+name+is+Oscar+and+I'm+an+enthusiastic+web+developer.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=007bff&size=20&center=true&vCenter=true&width=1020&height=80&lines=Hello+and+welcome+to+my+GitHub+profile!;My+name+is+Oscar+and+I'm+an+enthusiastic+web+developer.">
 </p>
 <p align="center">
   <img src="https://github.com/SilvaOz/SilvaOz/blob/master/images/OscarNinja.gif" alt="NinjaDanz" width="400"/>
 </p>
 <!-- About Me -->
-<h3 align="center">About Me</h3>
+<h3 align="center"style="color: #007bff;">About Me</h3>
 <p align="center">
   <em>I am a web development student who is passionate about creating high-quality websites with a focus on user experience. I am constantly seeking new challenges and opportunities to expand my skill set and take on exciting projects.</em>
 </p>
@@ -49,11 +49,11 @@
 
 </p>
 <p align="center">
-As a passionate and experienced web developer, I am always eager to take on new challenges and collaborate with clients to create cutting-edge websites. If you're searching for a skilled and dedicated web developer to bring your ideas to life, I would be thrilled to work with you on your next project. Don't hesitate to contact me to discuss your vision and how we can work together to achieve your goals. Thank you for considering me, and I can't wait to hear from you soon!
+If you're searching for a skilled and dedicated web developer to bring your ideas to life, I would be thrilled to work with you on your next project. Don't hesitate to contact me to discuss your vision and how we can work together to achieve your goals. Thank you for considering me, and I can't wait to hear from you soon!
 </p>
 
 <!-- Contact Info -->
-<h3 align="center">Contact Info</h3>
+<h3 align="center" style="color: #007bff;">Contact Info</h3>
 <p align="center">
   <a href="mailto:oscar.silva.dev@gmail.com"><img src="https://img.shields.io/badge/Email-282C34?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/oscar-silva-webdev/"><img src="https://img.shields.io/badge/LinkedIn-282C34?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
