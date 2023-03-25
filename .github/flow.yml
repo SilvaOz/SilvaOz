@@ -1,0 +1,6 @@
+name: Prueba de flujo de trabajo
+
+on:
+  push:
+    branches:
+      - main
