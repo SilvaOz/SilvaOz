@@ -3,7 +3,7 @@
 </p>
 <!-- Typing SVG Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=008000&size=20&center=true&vCenter=true&width=1020&height=80&lines=Hello+and+welcome+to+my+GitHub+profile!;My+name+is+Oscar+and+I'm+an+enthusiastic+web+developer.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=ce9178&size=20&center=true&vCenter=true&width=1020&height=80&lines=Hello+and+welcome+to+my+GitHub+profile!;My+name+is+Oscar+and+I'm+an+enthusiastic+web+developer.">
 </p>
 <!-- Profile Views Counter -->
 <p align="right">
