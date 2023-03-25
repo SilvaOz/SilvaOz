@@ -9,11 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/SilvaOz/SilvaOz/blob/master/images/6Ug0.mp4" alt="Computer" width="300"/>
+  <img src="https://github.com/SilvaOz/SilvaOz/blob/master/images/OscarNinja.gif" alt="NinjaDanz" width="300"/>
 </p>
-<video autoplay loop>
-  <source src="https://github.com/SilvaOz/SilvaOz/blob/master/images/6Ug0.mp4" type="video/mp4">
-</video>
 
 <!-- About Me -->
 <h3 align="center">About Me</h3>
