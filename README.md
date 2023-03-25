@@ -40,10 +40,6 @@
 <!-- About me -->
 <p align="justify">
   <em>Thank you for taking the time to visit my profile. As a web developer, I strive to create websites that are not only visually appealing but also intuitive and easy to use for the end-user. I am constantly seeking new challenges and opportunities to hone my skills and take on exciting projects.</em></p>
-<br>
-<br>
-<br>
-<br>
 
 <!-- Technologies and Statistics -->
 <p align="center">
