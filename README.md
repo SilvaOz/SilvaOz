@@ -67,15 +67,10 @@
 <p align="center">
   <a href="https://silvaoz.github.io/PB-Calculator/"><img src="https://img.shields.io/badge/Calculator-Digital-red" alt="Calculator" /></a>
 </p>
+<!--START_SECTION:chessStats-->
 
+<!--END_SECTION:chessStats-->
 <!-- Footer -->
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SilvaOz" alt="Visitors" />
 </p>
-
-
-## Contributions Calendar:
-
-<img src="https://grass-graph.moshimo.works/images/Silvaoz.png?rotate=90&effect=depths" alt="Contributions Calendar" />
-
-
