@@ -36,7 +36,7 @@
 <!-- Contributions calender -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=tu-usuario-de-github&theme=dark&hide_border=true&background=000000&stroke=0000" alt="GitHub Contributions Calender" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?Silvaoz&theme=dark&hide_border=true&background=000000&stroke=0000" alt="GitHub Contributions Calender" />
   </a>
 </p>
 
