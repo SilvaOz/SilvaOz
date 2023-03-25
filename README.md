@@ -11,7 +11,7 @@
 </p>
 <!-- About Me -->
 <h3 align="center">About Me</h3>
-<p align="justify">
+<p align="center">
   <em>I am a web development student who is passionate about creating high-quality websites with a focus on user experience. I am constantly seeking new challenges and opportunities to expand my skill set and take on exciting projects.</em>
 </p>
 
@@ -34,7 +34,7 @@
 </p>
 
 <!-- About me -->
-<p align="justify">
+<p align="center">
   <em>Thank you for taking the time to visit my profile. As a web developer, I strive to create websites that are not only visually appealing but also intuitive and easy to use for the end-user. I am constantly seeking new challenges and opportunities to hone my skills and take on exciting projects.</em></p>
 
 <!-- Technologies and Statistics -->
