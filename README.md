@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/SilvaOz/SilvaOz/blob/master/images/kCa8Mr.gif" alt="Computer" width="300"/>
+  <img src="https://github.com/SilvaOz/SilvaOz/blob/master/images/d052c6443189c8b6405f1515e4acb3ee_w200.gif" alt="Computer" width="300"/>
 </p>
 
 <!-- About Me -->
