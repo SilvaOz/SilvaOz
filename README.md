@@ -2,21 +2,17 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=silvaoz&label=Profile%20views&color=0e75b6&style=flat" alt="silvaoz" />
 </p>
-
 <!-- Typing SVG Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=18F7B5&size=20&center=true&vCenter=true&width=1020&height=80&lines=Hello+and+welcome+to+my+GitHub+profile!;My+name+is+Oscar+and+I'm+an+enthusiastic+web+developer.;I+am+dedicated+to+creating+high-quality+websites+with+a+focus+on+user+experience.">
 </p>
-
 <p align="center">
-  <img src="https://github.com/SilvaOz/SilvaOz/blob/master/images/OscarNinja.gif" alt="NinjaDanz" width="300"/>
+  <img src="https://github.com/SilvaOz/SilvaOz/blob/master/images/OscarNinja.gif" alt="NinjaDanz" width="600"/>
 </p>
-
 <!-- About Me -->
 <h3 align="center">About Me</h3>
-
 <p align="justify">
-  <em>I am an enthusiastic web development student in search of opportunities to showcase my skills and creativity in the field. I love working with technologies like HTML, CSS, and JavaScript, and am always eager to learn new languages and tools. Though I do not yet have professional experience with companies, I have been working on personal projects to improve my skills and knowledge in web development. I focus on finding innovative and exciting solutions to any challenge that comes my way.</em>
+  <em>I am a web development student who is passionate about creating high-quality websites with a focus on user experience. I am constantly seeking new challenges and opportunities to expand my skill set and take on exciting projects.</em>
 </p>
 
 <!-- Skills -->
@@ -53,11 +49,17 @@
 
 </p>
 <p align="center">
-If you are in need of a dedicated and skilled web developer, I would love to collaborate with you on your next project. Please don't hesitate to reach out to me to discuss your ideas and how we can work together to bring them to life. Thank you again for considering me and I look forward to hearing from you soon!
+As a passionate and experienced web developer, I am always eager to take on new challenges and collaborate with clients to create cutting-edge websites. If you're searching for a skilled and dedicated web developer to bring your ideas to life, I would be thrilled to work with you on your next project. Don't hesitate to contact me to discuss your vision and how we can work together to achieve your goals. Thank you for considering me, and I can't wait to hear from you soon!
 </p>
 
 <!-- Contact Info -->
+<h3 align="center">Contact Info</h3>
 <p align="center">
-  <a href="mailto:oscarsilva03@yahoo.com">Email</a> | 
-  <a href="https://www.linkedin.com/in/oscar-silva-dev/">LinkedIn</a>
+  <a href="mailto:oscar.silva.dev@gmail.com"><img src="https://img.shields.io/badge/Email-282C34?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/oscar-silva-webdev/"><img src="https://img.shields.io/badge/LinkedIn-282C34?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/silva_dev"><img src="https://img.shields.io/badge/Twitter-282C34?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+</p> 
+<!-- Footer -->
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SilvaOz" alt="Visitors" />
 </p>
