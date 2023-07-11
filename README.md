@@ -37,18 +37,7 @@
 
 <!-- About me -->
 <p align="center">
-  <em>Thank you for taking the time to visit my profile. As a web developer, I strive to create websites that are not only visually appealing but also intuitive and easy to use for the end-user. I am constantly seeking new challenges and opportunities to hone my skills and take on exciting projects.</em></p>
-
-<!-- Technologies and Statistics -->
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5%20-95%25-green" alt="HTML5 badge">
-  <img src="https://img.shields.io/badge/CSS3%20-90%25-green" alt="CSS3 badge">
-  <img src="https://img.shields.io/badge/JavaScript%20-30%25-blue" alt="JavaScript badge">
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro%20-100%25-red" alt="Adobe Premiere Pro badge">
-  <img src="https://img.shields.io/badge/Sass%20-10%25-blue" alt="Sass badge">
-  <img src="https://img.shields.io/badge/Bootstrap%20-40%25-blue" alt="Bootstrap badge">
-  <img src="https://img.shields.io/badge/Python%20-10%25-blue" alt="Python badge">
-</p>
+  <em>Thank you for taking the time to visit my profile. As a web developer, I strive to create websites that are not only visually appealing but also intuitive and easy to use for the end-user. I am consta
 
 <p align="center">
   <em>If you are looking for a skilled and dedicated web developer to bring your ideas to life, I would be thrilled to work with you on your next project. Don't hesitate to contact me to discuss your vision and how we can work together to achieve your goals. Thank you for considering me, and I look forward to hearing from you soon!</em>
