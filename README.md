@@ -37,7 +37,7 @@
 
 <!-- About me -->
 <p align="center">
-  <em>Thank you for taking the time to visit my profile. As a web developer, I strive to create websites that are not only visually appealing but also intuitive and easy to use for the end-user. I am consta
+  <em>Thank you for taking the time to visit my profile. As a web developer, I strive to create websites that are not only visually appealing but also intuitive and easy to use for the end-user. 
 
 <p align="center">
   <em>If you are looking for a skilled and dedicated web developer to bring your ideas to life, I would be thrilled to work with you on your next project. Don't hesitate to contact me to discuss your vision and how we can work together to achieve your goals. Thank you for considering me, and I look forward to hearing from you soon!</em>
