@@ -10,16 +10,4 @@
   <img src="https://komarev.com/ghpvc/?username=silvaoz&label=Profile%20views&color=0e75b6&style=flat" alt="silvaoz" />
 </p>
 
-<!-- Projects -->
-<h3 align="center">Projects</h3>
-<p align="center">
-  <a href="https://silvaoz.github.io/PB-Calculator/"><img src="https://img.shields.io/badge/Calculator-Digital-red" alt="Calculator" /></a>
-</p>
-<!--START_SECTION:chessStats-->
 
-<!--END_SECTION:chessStats-->
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SilvaOz" alt="Visitors" />
-</p>
